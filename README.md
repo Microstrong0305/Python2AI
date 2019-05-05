@@ -26,12 +26,13 @@
     + [牛客网专项练习-编程语言Python](https://www.nowcoder.com/intelligentTest)
     + [GitHub-taizilongxu/interview_python](https://github.com/taizilongxu/interview_python)
     + [110到Python面试题](https://foofish.net/interview_summary.html)
-    	> 文件已经放到[Python_pdf](./Python_pdf)
+    	> 110道题目pdf文件已经放到[Python_pdf](./Python_pdf)
 
 ### 第二阶段 - Python玩转算法(5月中旬-6月底)
 
 学习分三个部分:
 1. 自己去 [牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews) 做题系统中进行python练习
+	> 《剑指Offer》pdf文件已经放到[Python_pdf](./Python_pdf)
 2. 自己去 [牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode) 做题系统中进行python练习
 3. 自己学习慕课网视频[《玩转算法面试 leetcode题库分门别类详细解析》](https://coding.imooc.com/class/82.html)
 
