@@ -37,8 +37,8 @@
 
 >按照下面的 [算法作业集](./problems.md) 自主记录完成的习题并定时反馈结果, [LeetCode作业集](./problems.md) 实现代码上传至 [solution_sample](./solution_sample)
 
-**学习目标：**
-1. 需要掌握的题目类型:
+学习目标：
+1. 需要掌握的题目类型：
 	1. 数组
 	2. 字符串
 	3. 查找
