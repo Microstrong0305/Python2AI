@@ -2,6 +2,7 @@
 从零开始学习人工智能
 
 ## Python
+1. [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
 ### 第一阶段 - Python基础学习(4月初-5月中旬)
 5-7天自学掌握Python基础知识，然后进行Python基础知识测验。根据测试结果考虑是否重新学习Python基础知识。
