@@ -72,9 +72,11 @@
 	5. Scikit-Learn
 	这是用 Python 实现机器学习的终极工具。所谓用 Python 实现机器学习指的就是这个——Scikit-Learn。所有你需要的从算法到提升的内容都能在这里找到。
 
-2. Python爬虫项目(找一个感兴趣的爬虫项目练习)
-	1. [GitHub 上有哪些优秀的 Python 爬虫项目？ - 知乎](https://www.zhihu.com/question/58151047)
-	2. [GitHub 上有哪些优秀的 Python 爬虫项目？ - 龙鹏-言有三的回答 - 知乎](https://www.zhihu.com/question/58151047/answer/640461600])
+2. Python爬虫项目(14天)
+	1. **1天完成练手项目** [3 个适合新人上手的Python项目（附代码！）](https://mp.weixin.qq.com/s/fqL-lIN5oRIyq394N0fuyw)
+	2. **13天完成爬虫工具** 找一个感兴趣的爬虫项目练习
+		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 知乎](https://www.zhihu.com/question/58151047)
+		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 龙鹏-言有三的回答 - 知乎](https://www.zhihu.com/question/58151047/answer/640461600])
 
 ## 机器学习
 
