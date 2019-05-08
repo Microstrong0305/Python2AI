@@ -57,7 +57,7 @@
 	1. 希望第二阶段结束后，可以把[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)全部刷完。
 	2. 希望第二阶段结束后，可以把[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)全部刷完。
 
-### 第三阶段 - Python进阶学习(7月1初-7月中旬)
+### 第三阶段 - Python进阶学习(7月初-7月中旬)
 1天学习基于Python的经典库。14天完成一个Python爬虫工具。
 
 1. 基于Python的经典库(1天了解经典库)
