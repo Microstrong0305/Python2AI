@@ -78,7 +78,24 @@
 		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 知乎](https://www.zhihu.com/question/58151047)
 		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 龙鹏-言有三的回答 - 知乎](https://www.zhihu.com/question/58151047/answer/640461600])
 
+### 大牛阶段 - Python高级学习（选学）
+
+1. Python高级用法
+	1. Python对象的比较与复制
+	2. 值传递、引用传递or其他，Python里参数是如何传递的？
+	3. 强大的装饰器
+	4. metaclass
+	5. 深入理解迭代器和生成器
+	6. 揭秘Python协程
+	7. Python并发编程之future
+	8. Python并发编程之asyncio
+	9. 你真的懂Python GIL(全局解释器锁)吗？
+	10. Python垃圾回收机制
+	11. SWIG：TensorFlow等流行框架背后的Python/C++混合编程技术
+	12. Python实现Web开发框架：Django、Flask
+
 ## 机器学习
+1. [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 
 ### 经典机器学习模型
 
