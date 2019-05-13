@@ -96,6 +96,7 @@
 
 ## 机器学习
 1. [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
+1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 
 ### 经典机器学习模型
 
