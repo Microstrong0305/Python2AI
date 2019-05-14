@@ -28,6 +28,8 @@
     + [GitHub-taizilongxu/interview_python](https://github.com/taizilongxu/interview_python)
     + [110到Python面试题](https://foofish.net/interview_summary.html)
     	> 110道题目pdf文件已经放到[Python_pdf](./Python_pdf)
+    + [面试分享系列 | 17道Python面试题，让你在求职中无往不利](https://mp.weixin.qq.com/s/DzDcv1V8iBN9zEFCWQESlQ)
+    + [分享 | 收集了60道硬核Python面试题](https://mp.weixin.qq.com/s/MAxtpZjxD6mJ7o_5TvEf4w)
 
 ### 第二阶段 - Python玩转算法(5月中旬-6月底)
 30天左右时间掌握Python实现基础算法，然后完成[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)和[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)的练习。
@@ -71,6 +73,7 @@
 		- 这是另一个可视化工具，但这个工具更侧重于统计结果的可视化，比如直方图、饼图、曲线图或相关性表等。
 	5. Scikit-Learn
 		- 这是用 Python 实现机器学习的终极工具。所谓用 Python 实现机器学习指的就是这个——Scikit-Learn。所有你需要的从算法到提升的内容都能在这里找到。
+	6. [干货|理解Python爬虫基础知识](https://mp.weixin.qq.com/s/AU1Awfs9v4r_umUf3FLpvA)
 
 2. Python爬虫项目(14天)
 	1. **1天完成练手项目** [3 个适合新人上手的Python项目（附代码！）](https://mp.weixin.qq.com/s/fqL-lIN5oRIyq394N0fuyw)
