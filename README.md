@@ -34,6 +34,9 @@
 ### 第二阶段 - Python玩转算法(5月中旬-6月底)
 30天左右时间掌握Python实现基础算法，然后完成[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)和[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)的练习。
 
+算法刷题技巧：
+1. [微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
+
 学习分三个部分:
 1. 自己去 [牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews) 做题系统中进行python练习
 	> 《剑指Offer》pdf文件已经放到[Python_pdf](./Python_pdf)
@@ -100,8 +103,25 @@
 ## 机器学习
 1. [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
+	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
 
 ### 经典机器学习模型
+
+#### 机器学习基础
+1. 数据归一化方法
+	- [机器学习-数据归一化方法（Normalization Method）](https://blog.csdn.net/program_developer/article/details/78637711)
+1. 过拟合/欠拟合
+2. 正则化
+	- [机器学习中的L1和L2正则化项](https://blog.csdn.net/program_developer/article/details/79436657)
+3. 交叉验证
+4. 模型评估
+	- [【错误率、精度、查准率、查全率和F1度量】详细介绍](https://blog.csdn.net/program_developer/article/details/79937291)
+	- [ROC曲线和AUC面积理解](https://blog.csdn.net/program_developer/article/details/79946787)
+5. 偏差和方差
+	- [机器学习中Bias（偏差）和Variance（方差）](https://blog.csdn.net/program_developer/article/details/79829034)
+6. 数据不均衡处理方法
+	- [处理不均衡数据（Dealing with imbalanced data）简洁版](https://blog.csdn.net/program_developer/article/details/80158057)
+	- [分类中解决类别不平衡问题](https://blog.csdn.net/program_developer/article/details/80287033)
 
 #### 监督学习 
 1. 线性回归
@@ -117,8 +137,10 @@
 4. 决策树
 5. 贝叶斯
 7. 浅层神经网络
-8. 隐马尔科夫模型
-9. 条件随机场
+8. KNN(k-Nearest Neighbor, k近邻学习)
+	- [kNN 的花式用法](https://mp.weixin.qq.com/s/OQhbnSBnN3zlsvh84s1gJg)
+9. 隐马尔科夫模型
+10. 条件随机场
 
 #### 无监督学习
 1. K-means聚类(会推导、会写代码)
@@ -126,17 +148,30 @@
 3. 高斯混合聚类
 4. 密度聚类
 5. 主题模型
+6. 降维算法
+	1. PCA
+	2. SVD
 
 #### 集成学习
+- [常用的模型集成方法介绍：bagging、boosting 、stacking](https://mp.weixin.qq.com/s/nwd4zXy6hTjt6Hx9e7QMFg)
 1. Bagging
 2. Boosting
+	1. AdaBoost
 3. 随机森林
 4. GBDT
 5. XGBoost
 6. LightGBM
-
-#### 降维算法
-1. PCA
-2. SVD
+7. stacking
 
 #### 强化学习
+
+## 深度学习
+
+### 神经网络概述
+
+### 卷积神经网络
+
+### 自编码器
+
+### 循环神经网络
+
