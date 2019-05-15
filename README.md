@@ -1,10 +1,10 @@
 # Python2AI
 从零开始学习人工智能
 
-## Python
+## 1. Python
 1. [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
-### 第一阶段 - Python基础学习(4月初-5月中旬)
+### 1.1 第一阶段 - Python基础学习(4月初-5月中旬)
 5-7天自学掌握Python基础知识，然后进行Python基础知识测验。根据测试结果考虑是否重新学习Python基础知识。
 
 1. 学习教材
@@ -31,7 +31,7 @@
     + [面试分享系列 | 17道Python面试题，让你在求职中无往不利](https://mp.weixin.qq.com/s/DzDcv1V8iBN9zEFCWQESlQ)
     + [分享 | 收集了60道硬核Python面试题](https://mp.weixin.qq.com/s/MAxtpZjxD6mJ7o_5TvEf4w)
 
-### 第二阶段 - Python玩转算法(5月中旬-6月底)
+### 1.2 第二阶段 - Python玩转算法(5月中旬-6月底)
 30天左右时间掌握Python实现基础算法，然后完成[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)和[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)的练习。
 
 算法刷题技巧：
@@ -62,7 +62,7 @@
 	1. 希望第二阶段结束后，可以把[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)全部刷完。
 	2. 希望第二阶段结束后，可以把[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)全部刷完。
 
-### 第三阶段 - Python进阶学习(7月初-7月中旬)
+### 1.3 第三阶段 - Python进阶学习(7月初-7月中旬)
 1天学习基于Python的经典库。14天完成一个Python爬虫工具。
 
 1. 基于Python的经典库(1天了解经典库)
@@ -84,7 +84,7 @@
 		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 知乎](https://www.zhihu.com/question/58151047)
 		- [GitHub 上有哪些优秀的 Python 爬虫项目？ - 龙鹏-言有三的回答 - 知乎](https://www.zhihu.com/question/58151047/answer/640461600])
 
-### 大牛阶段 - Python高级学习（选学）
+### 1.4 大牛阶段 - Python高级学习（选学）
 
 1. Python高级用法
 	1. Python对象的比较与复制
@@ -100,14 +100,13 @@
 	11. SWIG：TensorFlow等流行框架背后的Python/C++混合编程技术
 	12. Python实现Web开发框架：Django、Flask
 
-## 机器学习
+## 2. 机器学习
 1. [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
-
-### 经典机器学习模型
-
-#### 机器学习基础
+1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
+![机器学习算法地图](./machinelearning/learning_map_of_machine_learning.jpg)
+### 2.1 机器学习基础
 1. 数据归一化方法
 	- [机器学习-数据归一化方法（Normalization Method）](https://blog.csdn.net/program_developer/article/details/78637711)
 1. 过拟合/欠拟合
@@ -123,36 +122,60 @@
 	- [处理不均衡数据（Dealing with imbalanced data）简洁版](https://blog.csdn.net/program_developer/article/details/80158057)
 	- [分类中解决类别不平衡问题](https://blog.csdn.net/program_developer/article/details/80287033)
 
-#### 监督学习 
-1. 线性回归
+### 2.2 监督学习 
+1. 线性模型
 	- 参考资料汇总
 		- [独家 | 为你介绍7种流行的线性回归收缩与选择方法（附代码）](https://mp.weixin.qq.com/s/6JberaY4H7it_UQiBls8wg)
-	- 线性回归
-		- 学习文档
-		- 项目练习
-	- 岭回归
-	- Lasso回归
-2. 逻辑回归(会推导)
+	1. 线性回归
+		- 岭回归
+		- Lasso回归
+	2. 线性分类
+		- 逻辑回归(会推导)
+		- SoftMax回归	
 3. 支持向量机(会推导)
 4. 决策树
+	1. ID3
+	2. C4.5 -> 随机森林 <- Bagging
+	3. CART -> AdaBoost/GBDT <- Boosting
+
+>决策树学习要与集成学习联系起来。 
+
 5. 贝叶斯
+	1. 朴素贝叶斯
+	2. 贝叶斯网络
+	3. 正态贝叶斯
 7. 浅层神经网络
 8. KNN(k-Nearest Neighbor, k近邻学习)
 	- [kNN 的花式用法](https://mp.weixin.qq.com/s/OQhbnSBnN3zlsvh84s1gJg)
-9. 隐马尔科夫模型
-10. 条件随机场
+	1. 距离度量学习
+9. LDA(线性判别分析) -> KLDA 
+10. 隐马尔科夫模型
+11. 条件随机场
 
-#### 无监督学习
+### 2.3 无监督学习
+
+#### 2.3.1 聚类
 1. K-means聚类(会推导、会写代码)
 2. 层次聚类
 3. 高斯混合聚类
 4. 密度聚类
-5. 主题模型
-6. 降维算法
-	1. PCA
-	2. SVD
+	1. DBSCAN
+5. OPTICS
+6. Mean Shift
+7. 谱聚类
+8. EM算法
 
-#### 集成学习
+#### 2.3.2 降维
+1. PCA -> KPCA
+2. SVD
+3. 流行学习
+	1. LLE
+	2. 拉普拉斯特征映射
+	3. 等距映射
+	4. 局部保持投影
+4. 主题模型
+
+### 2.4 集成学习
 - [常用的模型集成方法介绍：bagging、boosting 、stacking](https://mp.weixin.qq.com/s/nwd4zXy6hTjt6Hx9e7QMFg)
 1. Bagging
 2. Boosting
@@ -163,15 +186,85 @@
 6. LightGBM
 7. stacking
 
-#### 强化学习
+### 2.5 强化学习
+1. 策略迭代
+2. 价值迭代
+3. 蒙特卡罗算法
+4. 时序差分算法
+	1. SARSA算法
+	2. Q学习
+		- DQN
+		- 策略梯度
 
-## 深度学习
+## 3. 深度学习
+1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
+![深度学习算法地图](./deeplearning/learning_map_of_deep_learning.png)
 
-### 神经网络概述
+### 3.1 神经网络概述
+1. 感知器
+	- 感知器模型-神经网络的起点
+2. logistic回归
+	- logisitc回归虽然名字叫回归，但实际上是一种用于分类问题的算法，它在感知器模型的基础上加了一个logistic函数进行映射，得到区间(1, 0)类的概率值，刚好可以作为样本属于正样本的概率。logistic回归的作用类似于神经网络中的单个神经元，logistic函数即激活函数。这个函数导数的有界性为神经网络的梯度消失问题埋下了祸根。
+3. MLP
+	- 多层感知模型（MLP）-真正意义上的神经网络
 
-### 卷积神经网络
+### 3.2 卷积神经网络
+1. 分类网络
+	1. AlexNet
+	2. GoogleNet
+	3. VGGNet
+	4. ResNet
+2. 检测网络
+	1. RCNN簇
+		- RCNN
+		- SPPNet
+		- FastRCNN
+		- MaskRCNN
+	2. YOLO簇
+		- YOLO V1
+		- YOLO V2
+		- YOLO V3
+	3. SSD簇
+		- SSD
+		- DSSD
+	4. RFCN簇
+	5. FPN簇
+	6. RetinaNet簇
+	7. Anchorfree簇
+	8. 其它
+3. 分割网络
+	1. FCN
+	2. DialatedConv
+4. 跟踪网络
+	1. HCF
+5. 轻量化网络
+	- MobileNet V1
+	- MobileNet V2
+	- ShuffleNet V1
+	- Xception
 
-### 自编码器
+### 3.3 循环神经网络
+1. LSTM
+2. GRU
+3. BRNN
+4. NTM
+5. seq2seq
+6. RNN+CTC
 
-### 循环神经网络
+### 3.4 生成模型
+
+#### 3.4.1 VAE
+1. VAE
+2. CVAE 
+
+#### 3.4.2 GAN
+1. GAN
+2. CGAN
+
+### 3.5 GNN(图神经网络)
+1. GCN
+
+### 3.6 自编码器
+
+
 
