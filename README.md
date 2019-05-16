@@ -103,11 +103,12 @@
 	12. Python实现Web开发框架：Django、Flask
 
 ## 2. 机器学习
-1. [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
-1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
+- [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
+- [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
-1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
+- [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 ![机器学习算法地图](./machinelearning/learning_map_of_machine_learning.jpg)
+
 ### 2.1 机器学习基础
 1. 数据归一化方法
 	- [机器学习-数据归一化方法（Normalization Method）](https://blog.csdn.net/program_developer/article/details/78637711)
@@ -189,6 +190,7 @@
 7. stacking
 
 ### 2.5 强化学习
+- [从头开始强化学习](https://mp.weixin.qq.com/s/FUg9PLzd0qZWwUlWOU9JLw)
 1. 策略迭代
 2. 价值迭代
 3. 蒙特卡罗算法
@@ -199,7 +201,7 @@
 		- 策略梯度
 
 ## 3. 深度学习
-1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
+- [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
 ![深度学习算法地图](./deeplearning/learning_map_of_deep_learning.png)
 
 ### 3.1 神经网络概述
