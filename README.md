@@ -1,5 +1,7 @@
 # Python2AI
-从零开始学习人工智能
+从零开始学习人工智能，学习路线如下：
+![人工智能学习路线](./learning_path.jpg)
+
 
 ## 1. Python
 1. [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
