@@ -104,10 +104,10 @@
 
 ## 2. 机器学习(6月初-6月底)
 **以下内容为了解内容，可以学习完整个机器学习内容后，再看：**
-	- [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
-	- [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
-		1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
-	- [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
+- [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
+- [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
+	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
+- [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 
 ![机器学习算法地图](./machinelearning/learning_map_of_machine_learning.jpg)
 
