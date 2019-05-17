@@ -129,6 +129,7 @@
 1. 线性模型
 	- 参考资料汇总
 		- [独家 | 为你介绍7种流行的线性回归收缩与选择方法（附代码）](https://mp.weixin.qq.com/s/6JberaY4H7it_UQiBls8wg)
+		- [线性回归：这可能是机器学习中最简单的一个模型了](https://mp.weixin.qq.com/s/ulKyr7mvKvn7QHHVJPEzLg)
 	1. 线性回归
 		- 岭回归
 		- Lasso回归
