@@ -41,7 +41,7 @@
 
 学习分三个部分:
 1. 自己去 [牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews) 做题系统中进行python练习
-	> 《剑指Offer》pdf文件已经放到[Python_pdf](./Python_pdf)
+	> 《剑指Offer》pdf书籍已经放到[algorithm](./algorithm)
 2. 自己去 [牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode) 做题系统中进行python练习
 3. 自己学习慕课网视频[《玩转算法面试 leetcode题库分门别类详细解析》](https://coding.imooc.com/class/82.html)
 
@@ -64,7 +64,7 @@
 	1. 希望第二阶段结束后，可以把[牛客网的《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)全部刷完。
 	2. 希望第二阶段结束后，可以把[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)全部刷完。
 
-### 1.3 第三阶段 - Python进阶学习(7月初-7月中旬)
+### 1.3 第三阶段 - Python进阶学习(5月中旬-5月底)
 1天学习基于Python的经典库。14天完成一个Python爬虫工具。
 
 1. 基于Python的经典库(1天了解经典库)
@@ -102,12 +102,14 @@
 	11. SWIG：TensorFlow等流行框架背后的Python/C++混合编程技术
 	12. Python实现Web开发框架：Django、Flask
 
-## 2. 机器学习
+## 2. 机器学习(6月初-6月底)
 - [AI 算法工程师手册](http://www.huaxiaozhuan.com/)
 - [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
 - [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 ![机器学习算法地图](./machinelearning/learning_map_of_machine_learning.jpg)
+
+>学习书籍《统计学习方法》，李航著。[统计学习方法书籍pdf/算法Python代码实现/课件](./machinelearning/统计学习方法-电子书及代码实现-李航)
 
 ### 2.1 机器学习基础
 1. 数据归一化方法
