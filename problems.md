@@ -19,3 +19,4 @@
 	+ 167. 两数之和 II - 输入有序数组
 	+ 209. 长度最小的子数组
 	- [详解数组刷题上](https://mp.weixin.qq.com/s/S3nHUuXKyXR4WYui96hbUg)
+	- [数组刷题<下>套路分析](https://mp.weixin.qq.com/s/fLo5Lc_LUkAcDZBSUiw2tA)
