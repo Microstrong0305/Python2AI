@@ -20,3 +20,9 @@
 	+ 209. 长度最小的子数组
 	- [详解数组刷题上](https://mp.weixin.qq.com/s/S3nHUuXKyXR4WYui96hbUg)
 	- [数组刷题<下>套路分析](https://mp.weixin.qq.com/s/fLo5Lc_LUkAcDZBSUiw2tA)
+
+2. 动态规划进阶三部曲：递归->记忆化搜索->DP逐步进阶
+	+ 53. 最大子序和
+	+ 70. 爬楼梯
+	+ 120. 三角形最小路径和
+	- [LeetCode动态规划上之递归+记忆化搜索+DP逐步进阶(上)](https://mp.weixin.qq.com/s/JGW2eohpUcu-2e8c538xTA)
