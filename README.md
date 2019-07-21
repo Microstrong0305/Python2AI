@@ -2,12 +2,12 @@
 从零开始学习人工智能，学习路线如下：
 ![人工智能学习路线](./learning_path.jpg)
 
-
 ## 1. Python
 1. [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 1. [伸手党的福音，6个Python练手项目](https://mp.weixin.qq.com/s/_4YgU53AHx7TksTFfbqakg)
 	- GitHub-The-Flask-Mega-Tutorial [GitHub-中文](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) | [英文原文地址](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 	- Django 入门完全指南 [中文地址](https://github.com/pythonzhichan/django-beginners-guide) | [英文原文地址](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+	- [Flask Vue.js全栈开发教程系列](http://www.madmalls.com/blog/post/first-flask-test-restful-api/)
 
 ### 1.1 第一阶段 - Python基础学习(4月初-5月中旬)
 5-7天自学掌握Python基础知识，然后进行Python基础知识测验。根据测试结果考虑是否重新学习Python基础知识。
@@ -111,6 +111,7 @@
 - [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	1. [2000 星！绝佳的 Python 机器学习在线指南，教程 + 代码可能更适合你](https://mp.weixin.qq.com/s/0bVdcAsR0hI10Wgl9u0yrA)
 - [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
+- [GitHub-机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
 ![机器学习算法地图](./machinelearning/learning_map_of_machine_learning.jpg)
 
