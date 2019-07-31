@@ -268,6 +268,7 @@
 
 #### 3.4.1 VAE
 1. VAE
+	+ [变分自编码器VAE：原来是这么一回事 | 附开源代码](https://zhuanlan.zhihu.com/p/34998569)
 2. CVAE 
 
 #### 3.4.2 GAN
