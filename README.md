@@ -264,21 +264,39 @@
 5. seq2seq
 6. RNN+CTC
 
-### 3.4 生成模型
+### 3.4 生成式模型
 
-#### 3.4.1 VAE
+#### 3.4.1 自回归模型：pixelRNN与pixelCNN
+1. pixelRNN
+1. pixelCNN
+
+#### 3.4.2 VAE
 1. VAE
 	+ [变分自编码器VAE：原来是这么一回事 | 附开源代码](https://zhuanlan.zhihu.com/p/34998569)
 2. CVAE 
 
-#### 3.4.2 GAN
+#### 3.4.3 GAN
 1. GAN
-2. CGAN
+1. DCGAN
+1. 层级结构的GAN
+	- 使用多对GAN的模型有：StackGAN、GoGAN
+	- 使用单一GAN，分阶段生成的有ProgressiveGAN
+1. 自编码器结构的GAN
+	- BEGAN
+	- EBGAN
+	- MAGAN
+1. CGAN
 
 ### 3.5 GNN(图神经网络)
 1. GCN
 
 ### 3.6 自编码器
 
+## 读论文方法
+1. 读一篇论文要带着四个问题读：
+	- 要解决什么问题？
+	- 用了什么方法解决？
+	- 效果如何？
+	- 还存在什么问题？
 
 
