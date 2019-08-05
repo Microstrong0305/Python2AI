@@ -1,5 +1,7 @@
 # Python2AI
 从零开始学习人工智能，学习路线如下：
+1. [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/uR99CyiU5fEdYlqdeu75uQ)
+	- [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw)
 ![人工智能学习路线](./learning_path.jpg)
 
 ## 1. Python
