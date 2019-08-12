@@ -300,5 +300,6 @@
 	- 用了什么方法解决？
 	- 效果如何？
 	- 还存在什么问题？
+1. [Andrew Ng关于机器学习职业生涯以及阅读论文的一些建议](https://mp.weixin.qq.com/s/faiksNxyXRCV8pzKsv9LpA)
 
 
