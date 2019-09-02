@@ -191,13 +191,15 @@
 
 ### 2.4 集成学习
 - [常用的模型集成方法介绍：bagging、boosting 、stacking](https://mp.weixin.qq.com/s/nwd4zXy6hTjt6Hx9e7QMFg)
+- [从结构到性能，一文概述XGBoost、Light GBM和CatBoost的同与不同](https://mp.weixin.qq.com/s/2ZG6o0syQtkchIE4AANVWQ)
 1. Bagging
-2. Boosting
+1. Boosting
 	1. AdaBoost
-3. 随机森林
-4. GBDT
-5. XGBoost
-6. LightGBM
+1. 随机森林
+1. GBDT
+1. XGBoost
+1. LightGBM
+1. CatBoost
 7. stacking
 
 ### 2.5 强化学习
