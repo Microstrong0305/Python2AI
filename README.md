@@ -123,17 +123,23 @@
 1. 数据归一化方法
 	- [机器学习-数据归一化方法（Normalization Method）](https://blog.csdn.net/program_developer/article/details/78637711)
 1. 过拟合/欠拟合
-2. 正则化
+1. 正则化
 	- [机器学习中的L1和L2正则化项](https://blog.csdn.net/program_developer/article/details/79436657)
-3. 交叉验证
-4. 模型评估
+	- L-inifity Norm
+1. 交叉验证
+1. 模型评估
 	- [【错误率、精度、查准率、查全率和F1度量】详细介绍](https://blog.csdn.net/program_developer/article/details/79937291)
 	- [ROC曲线和AUC面积理解](https://blog.csdn.net/program_developer/article/details/79946787)
-5. 偏差和方差
+1. 偏差和方差
 	- [机器学习中Bias（偏差）和Variance（方差）](https://blog.csdn.net/program_developer/article/details/79829034)
-6. 数据不均衡处理方法
+1. 数据不均衡处理方法
 	- [处理不均衡数据（Dealing with imbalanced data）简洁版](https://blog.csdn.net/program_developer/article/details/80158057)
 	- [分类中解决类别不平衡问题](https://blog.csdn.net/program_developer/article/details/80287033)
+1. 优化算法
+	- 梯度下降算法
+	- 坐标下降法(Coordinate Descent)
+	- 随机梯度下降法
+	- 小批量梯度下降法
 
 ### 2.2 监督学习 
 1. 线性模型
@@ -143,25 +149,63 @@
 	1. 线性回归
 		- 岭回归
 		- Lasso回归
+		- ElasticNet回归(弹性网络回归)
 	2. 线性分类
 		- 逻辑回归(会推导)
-		- SoftMax回归	
+		- 最大似然
+		- 多元逻辑回归模型
+		- SoftMax回归
+
 3. 支持向量机(会推导)
+	1. Max-Margin的方法核心思想
+	1. 线性SVM的一步步构建
+	1. Slack Variable以及条件的松弛
+	1. SVM的Dual Formulation
+	1. Kernelized SVM
+	1. 不同核函数的详解以及使用
+	1. 核函数设计以及Mercer's Theorem
+	1. Kernelized Linear Regression
+	1. Kernelized PCA, Kernelized K-means
+
 4. 决策树
 	1. ID3
-	2. C4.5 -> 随机森林 <- Bagging
-	3. CART -> AdaBoost/GBDT <- Boosting
+	1. C4.5 -> 随机森林 <- Bagging
+	1. CART -> AdaBoost/GBDT <- Boosting
+	1. 信息论
 
 >决策树学习要与集成学习联系起来。 
 
-5. 贝叶斯
+5. 贝叶斯模型
 	1. 朴素贝叶斯
-	2. 贝叶斯网络
-	3. 正态贝叶斯
+	1. 贝叶斯网络
+	1. 正态贝叶斯
+	1. 主题模型（LDA) 以及生成过程
+	1. Dirichlet Distribution, Multinomial Distribution
+	1. 蒙特卡洛与MCMC(马尔可夫链蒙特卡罗算法)
+	1. Metropolis Hasting与Gibbs Sampling
+	1. 使用Collapsed Gibbs Sampler求解LDA
+	1. Mean-field variational Inference
+	1. 使用VI求解LDA
+	1. Stochastic Optimization与Bayesian Inference
+	1. 利用SLGD和SVI求解LDA
+	1. 基于分布式计算的贝叶斯模型求解
+	1. 随机过程与无参模型（non-parametric)
+	1. Chinese Retarant Process
+	1. Stick Breaking Process
+	1. Stochastic Block Model与MMSB
+	1. 基于SGLD与SVI的MMSB求解
+	1. Bayesian Deep Learning模型
+	1. Deep Generative Model
+
 7. 浅层神经网络
 8. KNN(k-Nearest Neighbor, k近邻学习)
 	- [kNN 的花式用法](https://mp.weixin.qq.com/s/OQhbnSBnN3zlsvh84s1gJg)
 	1. 距离度量学习
+	1. Weighted KNN算法
+	1. Approximated KNN算法
+	1. KD树
+	1. 近似KD树
+	1. Locality	Sensitivity Hashing	(LSH, 局部敏感哈希)
 9. LDA(线性判别分析) -> KLDA 
 10. 隐马尔科夫模型
 11. 条件随机场
@@ -170,14 +214,27 @@
 
 #### 2.3.1 聚类
 1. K-means聚类(会推导、会写代码)
-2. 层次聚类
-3. 高斯混合聚类
-4. 密度聚类
+	1. K-means++
+1. 层次聚类算法
+1. 高斯混合聚类
+	1. 高斯混合模型
+1. 密度聚类
 	1. DBSCAN
-5. OPTICS
-6. Mean Shift
-7. 谱聚类
-8. EM算法
+1. OPTICS
+1. Mean Shift
+1. 谱聚类( Spectral Clustering)
+1. EM算法以及收敛性
+	1. 基于EM算法的参数估计
+1. DCSCAN
+1. 隐变量与隐变量模型
+1. 隐马尔可夫模型(HMM)的应用以及参数
+1. 条件独立、D-separation(D分离)
+1. 基于Viterbi的Decoding
+1. Forward/Backward算法
+1. 有向图与无向图模型区别
+1. Log-Linear Model
+1. Feature Function的设计
+1. Linear CRF以及参数估计
 
 #### 2.3.2 降维
 1. PCA -> KPCA
@@ -192,6 +249,7 @@
 ### 2.4 集成学习
 - [常用的模型集成方法介绍：bagging、boosting 、stacking](https://mp.weixin.qq.com/s/nwd4zXy6hTjt6Hx9e7QMFg)
 - [从结构到性能，一文概述XGBoost、Light GBM和CatBoost的同与不同](https://mp.weixin.qq.com/s/2ZG6o0syQtkchIE4AANVWQ) | [机器之心](https://mp.weixin.qq.com/s/TD3RbdDidCrcL45oWpxNmw)
+1. 集成模型的优势
 1. Bagging
 1. Boosting
 	1. AdaBoost
@@ -200,18 +258,50 @@
 	1. LightGBM
 	1. CatBoost
 1. 随机森林
+	1. 完全随机森林
 1. stacking
+1. 基于残差的提升树训练思想
+1. 集成不同类型的模型
+1. VC理论
 
 ### 2.5 强化学习
 - [从头开始强化学习](https://mp.weixin.qq.com/s/FUg9PLzd0qZWwUlWOU9JLw)
 1. 策略迭代
-2. 价值迭代
-3. 蒙特卡罗算法
-4. 时序差分算法
+1. 价值迭代
+1. 蒙特卡罗算法
+1. 时序差分算法
 	1. SARSA算法
-	2. Q学习
+	1. Q学习
 		- DQN
 		- 策略梯度
+1. Policy Learning
+1. Deep RL
+
+### 2.6 凸优化
+1. 凸集、凸函数
+1. 凸函数与判定凸函数
+1. Linear/Quadratic/Integer Programming
+1. 对偶理论，Duality Gap，KKT条件
+1. Projected Gradient Descent
+1. 迭代式算法的收敛分析
+
+### 机器学习案例练习
+1. 机器学习基础与凸优化案例
+	1. 基于QP的股票投资组合策略设计
+	1. 基于LP的短文本相似度计算
+	1. 基于KNN的图像识别
+1. SVM与集成模型案例
+	1. 基于XGBoost的金融风控模型
+	1. 基于PCA和Kernel SVM的人脸识别
+	1. 基于Kernel PCA和Linear SVM的人脸识别
+1. 无监督学习与序列模型
+	1. 基于HMM和GMM的语音识别
+	1. 基于聚类分析的用户群体分析
+	1. 基于CRF的命名实体识别
+1. 贝叶斯模型
+	1. 基于Bayesian LSTM的文本分析
+	1. 使用无参主题模型做文本分类
+	1. 基于贝叶斯模型实现小数量的图像识别
 
 ## 3. 深度学习
 - [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
@@ -220,18 +310,26 @@
 ### 3.1 神经网络概述
 1. 感知器
 	- 感知器模型-神经网络的起点
-2. logistic回归
+1. logistic回归
 	- logisitc回归虽然名字叫回归，但实际上是一种用于分类问题的算法，它在感知器模型的基础上加了一个logistic函数进行映射，得到区间(1, 0)类的概率值，刚好可以作为样本属于正样本的概率。logistic回归的作用类似于神经网络中的单个神经元，logistic函数即激活函数。这个函数导数的有界性为神经网络的梯度消失问题埋下了祸根。
-3. MLP
+1. MLP
 	- 多层感知模型（MLP）-真正意义上的神经网络
+1. 激活函数
+1. BP算法
 
 ### 3.2 卷积神经网络
+1. 基础知识
+	1. 卷积层
+	1. Pooling层
+	1. 全连接层
+	1. Dropout
+	1. Bath Normalization
 1. 分类网络
 	1. AlexNet
 	2. GoogleNet
 	3. VGGNet
 	4. ResNet
-2. 检测网络
+1. 检测网络
 	1. RCNN簇
 		- RCNN
 		- SPPNet
@@ -249,24 +347,34 @@
 	6. RetinaNet簇
 	7. Anchorfree簇
 	8. 其它
-3. 分割网络
+1. 分割网络
 	1. FCN
 	2. DialatedConv
-4. 跟踪网络
+1. 跟踪网络
 	1. HCF
-5. 轻量化网络
+1. 轻量化网络
 	- MobileNet V1
 	- MobileNet V2
 	- ShuffleNet V1
 	- Xception
 
 ### 3.3 循环神经网络
+1. RNN与梯度消失
 1. LSTM
-2. GRU
-3. BRNN
-4. NTM
-5. seq2seq
-6. RNN+CTC
+1. GRU
+1. BRNN
+1. NTM
+1. seq2seq
+1. seq2seq+注意力机制
+1. RNN+CTC
+1. Word2Vec, Elmo, Bert, XLNet
+1. 深度学习中的调参技术
+1. 深度学习与图嵌入（Graph Embedding）
+1. Translating Embedding (TransE)
+1. Node2Vec
+1. Graph Convolutional Network
+1. Structured Deep Network Embedding
+1. Dynamic Graph Embedding
 
 ### 3.4 生成式模型
 
@@ -274,12 +382,16 @@
 1. pixelRNN
 1. pixelCNN
 
-#### 3.4.2 VAE
+#### 3.4.2 VAE(Variational Auto-Encoder)
 1. VAE
 	+ [变分自编码器VAE：原来是这么一回事 | 附开源代码](https://zhuanlan.zhihu.com/p/34998569)
-2. CVAE 
+	+ Variational Autoencoder(VAE)与求解
+1. CVAE
+1. 隐变量的Disentangling
+1. 图像的生成以及Disentangling
+1. 文本的生成以及Disentangling
 
-#### 3.4.3 GAN
+#### 3.4.3 GAN(Generative Adversial Network)
 1. GAN
 1. DCGAN
 1. 层级结构的GAN
@@ -290,11 +402,54 @@
 	- EBGAN
 	- MAGAN
 1. CGAN
+1. CycleGan
 
 ### 3.5 GNN(图神经网络)
 1. GCN
 
 ### 3.6 自编码器
+
+### 深度学习优化方法
+1. SGD
+1. Adam
+1. Adagrad
+
+### 推荐系统与在线学习
+1. 基于内容的推荐算法
+1. 基于协同过滤的推荐算法
+1. 矩阵分解
+1. 基于内容的Gradient Tree
+1. 基于深度学习的推荐算法
+1. 冷启动问题的处理
+1. Exploration vs Exploitation
+1. Multi-armed Bandit
+1. UCB1 algorithm，EXP3 algorithm
+1. Adversarial Bandit model
+1. Contexulalized Bandit
+1. LinUCB
+
+### 深度学习其它前言发展
+1. 深度学习的可解释性
+1. Deconvolution与图像特征的解释
+1. Layer-wise Propagation
+1. Adversial Machine Learning
+1. Purturbation Analysis
+1. Fair Learning
+
+### 深度学习案例练习
+1. 深度学习
+	1. 基于Seq2Seq和注意力机制的机器翻译
+	1. 基于TransE和GCN的知识图谱推理
+	1. 基于CNN的人脸关键点检测
+1. 推荐系统与在线学习
+	1. 使用Gradient Boosting Tree做基于 interaction 与 content的广告推荐
+	1. 使用深度神经网络做基于interaction 与 content的推荐
+	1. LinUCB做新闻推荐, 最大化rewards
+1. 生成式模型
+	1. 基于GAN的图像生成
+	1. 基于VAE的文本Style Transfer
+1. 深度学习其它前言发展
+	1. 可视化机器翻译系统
 
 ## 读论文方法
 1. 读一篇论文要带着四个问题读：
@@ -303,5 +458,6 @@
 	- 效果如何？
 	- 还存在什么问题？
 1. [Andrew Ng关于机器学习职业生涯以及阅读论文的一些建议](https://mp.weixin.qq.com/s/faiksNxyXRCV8pzKsv9LpA)
+
 
 
