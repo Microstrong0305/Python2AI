@@ -251,14 +251,14 @@
 - [从结构到性能，一文概述XGBoost、Light GBM和CatBoost的同与不同](https://mp.weixin.qq.com/s/2ZG6o0syQtkchIE4AANVWQ) | [机器之心](https://mp.weixin.qq.com/s/TD3RbdDidCrcL45oWpxNmw)
 1. 集成模型的优势
 1. Bagging
+	1. 随机森林
+	1. 完全随机森林
 1. Boosting
 	1. AdaBoost
 	1. GBDT
 	1. XGBoost
 	1. LightGBM
 	1. CatBoost
-1. 随机森林
-	1. 完全随机森林
 1. stacking
 1. 基于残差的提升树训练思想
 1. 集成不同类型的模型
