@@ -156,7 +156,7 @@
 		- 多元逻辑回归模型
 		- SoftMax回归
 
-3. 支持向量机(会推导)
+3. 支持向量机(会推导)->支持向量回归(support vector regression, SVR)
 	1. Max-Margin的方法核心思想
 	1. 线性SVM的一步步构建
 	1. Slack Variable以及条件的松弛
