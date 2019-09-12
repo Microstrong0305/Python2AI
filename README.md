@@ -171,6 +171,8 @@
 	1. ID3
 	1. C4.5 -> 随机森林 <- Bagging
 	1. CART -> AdaBoost/GBDT <- Boosting
+		- CART分类树
+		- CART回归树
 	1. 信息论
 
 >决策树学习要与集成学习联系起来。 
