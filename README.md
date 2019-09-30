@@ -215,6 +215,7 @@
 ### 2.3 无监督学习
 
 #### 2.3.1 聚类
+- [AI综述专栏 | 常用聚类算法综述](https://mp.weixin.qq.com/s/D65S_qDvXgY65a3cXCZb6Q)
 1. K-means聚类(会推导、会写代码)
 	1. K-means++
 1. 层次聚类算法
