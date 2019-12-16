@@ -425,11 +425,11 @@
 1. 基于深度学习的推荐算法
 1. 冷启动问题的处理
 1. Exploration vs Exploitation
-1. Multi-armed Bandit
-1. UCB1 algorithm，EXP3 algorithm
-1. Adversarial Bandit model
-1. Contexulalized Bandit
-1. LinUCB
+	1. Multi-armed Bandit
+	1. UCB1 algorithm，EXP3 algorithm
+	1. Adversarial Bandit model
+	1. Contexulalized Bandit
+	1. LinUCB
 
 ### 深度学习其它前言发展
 1. 深度学习的可解释性
