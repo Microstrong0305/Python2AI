@@ -262,7 +262,9 @@
 	1. XGBoost
 	1. LightGBM
 	1. CatBoost
-1. stacking
+	1. ThunderGBM
+1. Stacking
+1. Blending
 1. 基于残差的提升树训练思想
 1. 集成不同类型的模型
 1. VC理论
