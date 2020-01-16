@@ -166,6 +166,7 @@
 	1. 核函数设计以及Mercer's Theorem
 	1. Kernelized Linear Regression
 	1. Kernelized PCA, Kernelized K-means
+	1. SMO算法
 
 4. 决策树
 	1. ID3
@@ -210,7 +211,8 @@
 	1. Locality	Sensitivity Hashing	(LSH, 局部敏感哈希)
 9. LDA(线性判别分析) -> KLDA 
 10. 隐马尔科夫模型
-11. 条件随机场
+11. 条件随机场CRF
+12. 采用方法：马尔可夫链蒙特卡洛方法(MCMC)
 
 ### 2.3 无监督学习
 
