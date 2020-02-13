@@ -5,7 +5,7 @@
 	1. 关键词提取方法：tf-idf、text rank
 - 主题模型：LSA（SVD）、pLSA、LDA；
 - 基于词向量的固定表征：word2vec、fastText、glove；
-- 基于词向量的动态表征：elmo、GPT、bert；
+- 基于词向量的动态表征：ELMo、GPT、Transformer、Bert、XLNet、ALBERT；
 
 # 语言模型发展历史
 第一代：N-gram(马尔科夫链，统计学)--->第二代：BOW/LDA(统计学语言模型)--->第三代：word2vec(CBOW/Skip-gram，浅层神经网络)--->第四代：ELMo、GPT、Bert(深度学习时代)
