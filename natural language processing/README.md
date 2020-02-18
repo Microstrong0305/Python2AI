@@ -23,3 +23,5 @@ Ronan Collobert · Jason Weston · Leon Bottou · Michael Karlen · Koray Kavukc
 2011 · Journal of Machine Learning Research | 被引数：3384     
 We propose a unified neural network architecture and learning algorithm that can be applied to various natural language processing tasks including part-of-speech tagging, chunking, named entity recognition, and semantic role labeling. This versatility is achieved by trying to avoid task-specific engineering and therefore disregarding a lot of prior knowledge. Instead of exploiting man-made input features carefully optimized for each task, our system learns internal representations on the basis of vast amounts of mostly unlabeled training data. This work is then used as a basis for building a freely available tagging system with good performance and minimal computational requirements.  
 
+1. Attention Is All You Need
+ELMo等基于深度学习的方法可以有效地学习出上下文有关词向量，但毕竟是基于LSTM的序列模型，必然要面临梯度以及无法并行化的问题，即便结合使用注意力机制。在本文中，我们重点来讲解Transformer模型，它的核心是Self-Attention机制，并且Transformer也是BERT的核心组成部分。
