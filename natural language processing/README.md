@@ -11,8 +11,9 @@
 第一代：N-gram(马尔科夫链，统计学)--->第二代：BOW/LDA(统计学语言模型)--->第三代：word2vec(CBOW/Skip-gram，浅层神经网络)--->第四代：ELMo、GPT、Bert(深度学习时代)
 
 # 预训练语言模型的前世今生
-![avatar](./PLMfamily.jpg)
+![Must-read Papers on pre-trained language models](./PLMfamily.jpg)
 
+1. [GitHub（thunlp/PLMpapers）-Must-read Papers on pre-trained language models.](https://github.com/thunlp/PLMpapers)
 1. [[CLS]预训练语言模型的前世今生[SEP]萌芽时代[SEP]](https://mp.weixin.qq.com/s/1ixYjJN-bJPGrr7v-4d7Rw)
 1. [[预训练语言模型的前世今生] 风起云涌](https://mp.weixin.qq.com/s/g4jEVU3BkRem-DYXCn5eFQ) 
 1. [12个NLP预训练模型的学习笔记](https://mp.weixin.qq.com/s/IndeECchmX_GC8MzuWSVfg)
