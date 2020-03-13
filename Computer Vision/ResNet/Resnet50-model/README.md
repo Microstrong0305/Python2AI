@@ -1,0 +1,1 @@
+An implementation of resnet50 model from the paper "Deep residual learning for image recognition" by Kaiming He et.al in keras using tensorflow backend.

@@ -1,0 +1,17 @@
+bleach==1.5.0
+cycler==0.10.0
+html5lib==0.9999999
+Keras==2.0.8
+Markdown==2.6.9
+matplotlib==2.0.2
+numpy==1.13.1
+protobuf==3.4.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.2
+PyYAML==3.12
+scipy==0.19.1
+six==1.10.0
+tensorflow==1.3.0
+tensorflow-tensorboard==0.1.5
+Werkzeug==0.12.2
