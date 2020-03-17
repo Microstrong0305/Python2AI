@@ -130,6 +130,7 @@
 1. 模型评估
 	- [【错误率、精度、查准率、查全率和F1度量】详细介绍](https://blog.csdn.net/program_developer/article/details/79937291)
 	- [ROC曲线和AUC面积理解](https://blog.csdn.net/program_developer/article/details/79946787) | [模型评估指标AUC和ROC，这是我看到的最透彻的讲解](https://mp.weixin.qq.com/s/ZO1bhnbVT0qQo_LJpt4mRg) | [博客](https://blog.csdn.net/liweibin1994/article/details/79462554)
+	- [商、交叉熵和交叉熵损失](https://mp.weixin.qq.com/s/IiaSsW78GXuXilY49xB_hg) | [英文原文](https://medium.com/@vijendra1125/understanding-entropy-cross-entropy-and-softmax-3b79d9b23c8a)
 1. 偏差和方差
 	- [机器学习中Bias（偏差）和Variance（方差）](https://blog.csdn.net/program_developer/article/details/79829034)
 1. 数据不均衡处理方法
