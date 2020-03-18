@@ -435,11 +435,11 @@
 	1. Contexulalized Bandit
 	1. LinUCB
 1. 在线学习优化算法
-	- SGD
-	- TG
-	- FOBOS
-	- RDA
-	- FTRL-proximal
+	- SGD（Stochastic Gradient Descent）
+	- TG（Truncated Gradient）
+	- FOBOS（Forward-Backward Splitting）
+	- RDA（Regularized Dual Averaging）
+	- FTRL-proximal（Follow the Regularized Leader）
 
 ### 深度学习其它前言发展
 1. 深度学习的可解释性
